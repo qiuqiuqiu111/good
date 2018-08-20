@@ -1,0 +1,71 @@
+<a>   跳转标签
+href  跳转地址
+text-decoration   文本装饰
+none      隐藏
+text-align:    文本对齐方式
+line-height     行高
+font-family     字体样式
+
+
+
+
+1.块级标签 ：（可以控制宽高，独占一行） p  h1--h6  table
+2.行内标签：(不可以控制宽高，不独占一行) font  a  img 
+
+类型转换：  
+
+行内标签 转  块级   display:block
+块级    转     行内  :display:inline
+转换成行内块（可以控制宽高，但是不独占一行） display:inline-block
+
+
+注释：   <!--注释内容 --> 
+      /*  注释内容    */
+
+列表：
+1.有序列表     ol   li 
+2.无序列表    ul    li
+3.自定义列表    dl  dt  dd
+
+list-style ：none      列表样式  ：    隐藏
+
+
+
+
+
+
+
+
+样式的三种写法：
+1.行内样式： style="   样式       "
+2.页内样式: <style> 样式     </style>      放在<head>     </head>当中
+3.外联样式：<link href="    " />
+
+
+
+
+
+
+选择器：
+1.标签选择器：        p{      }
+2.通配符选择器：    *{       }
+3.id选择器 ：     #id名称     {         }
+4.类选择器或者 class选择器：.class名称{     }
+5.子类选择器： ul li
+
+
+
+透明度：rgba(0,0,0,0.1)      透明度取值范围   0--1  之间
+
+
+
+
+
+
+
+
+
+
+
+
+    

@@ -1,0 +1,76 @@
+<table>    表格标签
+<tr>        行
+<td>        列
+border      边框
+cellspacing    行间距
+cellpadding    列间距
+align         水平居中方式
+valign         垂直居中方式
+
+
+rowspan          合并行
+colspan          合并列
+
+
+
+
+
+
+form    表单标签
+action    提交地址
+method    提交方式
+
+get       明文提交    不安全       传值
+post      隐藏提交     安全         登录注册
+
+
+
+
+
+
+
+
+
+
+input    输入标签
+type     类型
+name     名称
+text     文本类型
+password    密码类型
+
+radio      单选类型
+checkbox    多选类型
+
+
+select   下拉列表
+option    下拉列表选项
+
+
+
+
+selected="selected"    下拉列表默认选择
+checked="checked"      单选或者多选默认选择
+disabled="disabled"    单选或者多选不可点击
+
+
+textarea    文本域
+rows        高度
+cols         宽度
+
+
+submit    提交
+value     值
+reset    重置
+button    按钮
+
+
+
+
+
+
+
+
+
+
+
+
